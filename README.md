@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="Project Logo" width="200">
-</p>
 
 <h1 align="center">ChatGPT Live Search - Laravel & Vue.js Project</h1>
 
@@ -63,7 +60,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📧 Contact
 
-For any inquiries or questions, please reach out to our team at chatgpt@example.com. We'd love to hear from you!
+For any inquiries or questions, please reach out to me at dhrutipandya02627@gmail.com. I'd love to hear from you!
 
 ---
 
